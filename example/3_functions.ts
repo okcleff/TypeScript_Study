@@ -9,7 +9,7 @@ function add(a: number, b: number) {
 }
 
 // 타입스크립트 함수 선언 - 함수의 반환 타입
-function add(a: number, b: number): number {
+function add2(a: number, b: number): number {
   return a + b;
 }
 
