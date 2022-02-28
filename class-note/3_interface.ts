@@ -69,3 +69,8 @@ let captain: Developer = {
   age: 100,
   language: 'TypeScript',
 }
+
+type Dev = {
+  name: string;
+  age: number;
+}
